@@ -40,31 +40,6 @@
         "id": "3",
         "linkTo": "#",
         "name_social": "facebook"
-      },
-      {
-        "id": "4",
-        "linkTo": "#",
-        "name_social": "github"
-      },
-      {
-        "id": "5",
-        "linkTo": "#",
-        "name_social": "twitter"
-      },
-      {
-        "id": "6",
-        "linkTo": "#",
-        "name_social": "reddit"
-      },
-      {
-        "id": "7",
-        "linkTo": "#",
-        "name_social": "youtube"
-      },
-      {
-        "id": "8",
-        "linkTo": "#",
-        "name_social": "twitch"
       }
     ]
   }
