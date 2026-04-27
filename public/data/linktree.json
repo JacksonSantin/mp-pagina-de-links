@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Márcia Santos",
+    "avatar": "./assets/images/avatar.jpeg",
+    "description": "Criadora de conteúdo, escritora e professora de história. Conheça o meu trabalho 👇🏽",
+    "links": [
+      {
+        "id": "1",
+        "linkTo": "#",
+        "name": "Livro: O cotidiano do Brasil"
+      },
+      {
+        "id": "2",
+        "linkTo": "#",
+        "name": "Meu último vídeo"
+      },
+      {
+        "id": "3",
+        "linkTo": "#",
+        "name": "Portfólio"
+      },
+      {
+        "id": "4",
+        "linkTo": "#",
+        "name": "Agenda"
+      }
+    ],
+    "socialLinks": [
+      {
+        "id": "1",
+        "linkTo": "#",
+        "name_social": "linkedin"
+      },
+      {
+        "id": "2",
+        "linkTo": "#",
+        "name_social": "instagram"
+      },
+      {
+        "id": "3",
+        "linkTo": "#",
+        "name_social": "facebook"
+      }
+    ]
+  }
+]
